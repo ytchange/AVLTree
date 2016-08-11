@@ -1,9 +1,9 @@
 # AVLTree
 
-	#AVLÊ÷µÄÐÔÖÊ
-	1. ×ó×ÓÊ÷ºÍÓÒ×ÓÊ÷µÄ¸ß¶ÈÖ®²îµÄ¾ø¶ÔÖµ²»³¬¹ý1
-	2. Ê÷ÖÐµÄÃ¿¸ö×ó×ÓÊ÷ºÍÓÒ×ÓÊ÷¶¼ÊÇAVLÊ÷
-	3. Ã¿¸ö½Úµã¶¼ÓÐÒ»¸öÆ½ºâÒò×Ó(balance factor--bf),ÈÎÒ»½ÚµãµÄÆ½ºâÒò×ÓÊÇ-1,0,1¡£(Ã¿¸ö½ÚµãµÄÆ½ºâÒò×ÓµÈÓÚÓÒ×ÓÊ÷µÄ¸ß¶È¼õÈ¥×ó×ÓÊ÷µÄ¸ß¶È )    
+	#AVLæ ‘çš„æ€§è´¨
+	1. å·¦å­æ ‘å’Œå³å­æ ‘çš„é«˜åº¦ä¹‹å·®çš„ç»å¯¹å€¼ä¸è¶…è¿‡1
+	2. æ ‘ä¸­çš„æ¯ä¸ªå·¦å­æ ‘å’Œå³å­æ ‘éƒ½æ˜¯AVLæ ‘
+	3. æ¯ä¸ªèŠ‚ç‚¹éƒ½æœ‰ä¸€ä¸ªå¹³è¡¡å› å­(balance factor--bf),ä»»ä¸€èŠ‚ç‚¹çš„å¹³è¡¡å› å­æ˜¯-1,0,1ã€‚(æ¯ä¸ªèŠ‚ç‚¹çš„å¹³è¡¡å› å­ç­‰äºŽå³å­æ ‘çš„é«˜åº¦å‡åŽ»å·¦å­æ ‘çš„é«˜åº¦ )    
 	
-	ÒÔÏÂÊÇ²åÈëÉ¾³ýÊ±¼¸ÖÖÐý×ªÇé¿ö
-	![image](https://github.com/ ytchange / AVLTree / raw / master / photo / ÓÒµ¥Ðý.png)
+	ä»¥ä¸‹æ˜¯æ’å…¥åˆ é™¤æ—¶å‡ ç§æ—‹è½¬æƒ…å†µ
+	è§photoæ–‡ä»¶å¤¹
